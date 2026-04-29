@@ -166,7 +166,7 @@ require_once '../includes/header.php';
 
         <button type="submit" class="btn btn-primary btn-lg"
                 onclick="return confirm('Submit your application? An invoice will be sent to your MUST email.')">
-          🏠 Submit form →
+          🏠 Submit application →
         </button>
       </form>
     </div>
